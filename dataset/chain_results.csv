@@ -1,0 +1,6 @@
+chain_name,input,output
+Summarization Chain,"Artificial Intelligence is a branch of computer science.
+    It enables machines to perform tasks that usually require
+    human intelligence. AI is used in healthcare, education,
+    transportation and many other industries.","Artificial Intelligence (AI) is a branch of computer science focused on enabling machines to perform tasks typically associated with human intelligence. It’s increasingly utilized across various industries like healthcare, education, and transportation, representing a significant advancement in automation and technological capabilities."
+Question Answering Chain,What is LangChain?,"LangChain is a framework used to develop applications powered by Large Language Models. It provides prompt templates, chains, and integrations with different models."
